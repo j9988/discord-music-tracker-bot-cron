@@ -1,0 +1,6 @@
+discord.py==2.3.2
+aiohttp==3.9.5
+spotipy==2.23.0
+beautifulsoup4==4.12.3
+lxml==5.2.1
+python-dotenv==1.0.1
