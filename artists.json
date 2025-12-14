@@ -1,523 +1,1673 @@
 [
   {
+    "name": "$himmy Boy",
+    "spotify_id": "6Qhzxge2wblXZLfpoBvOwO",
+    "youtube_channel_id": [
+      "UC_nR-KTHOg0BmiRkGOnWlLQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2876473"
+  },
+  {
     "name": "Ambition Musik",
     "spotify_id": "",
-    "youtube_channel_id": ["UC4mMqn0EPMoOwWqU8--2how"],
+    "youtube_channel_id": [
+      "UC4mMqn0EPMoOwWqU8--2how"
+    ],
+    "melon_url": ""
+  },
+  {
+    "name": "ANDUP",
+    "spotify_id": "4gEUlh9kVS3y11VHiJfS2l",
+    "youtube_channel_id": [
+      "UCcJlDSdQuwz9A4HQ33UBSTw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=340667"
+  },
+  {
+    "name": "AOMG",
+    "spotify_id": "",
+    "youtube_channel_id": [
+      "UCW5gbSGTGIukUDsPt2sdhGw"
+    ],
     "melon_url": ""
   },
   {
     "name": "ASH ISLAND",
-    "spotify_id": "",
-    "youtube_channel_id": ["UCkLoBAZQLHv9pwHqmmdBeGg", "UClhz5gOIgcW-0jTpq90N9dw"],
-    "melon_url": "",
-    "soundcloud_user_id": "ashisland"
+    "spotify_id": "7IEhlwWQA7pCkEvzwwHehE",
+    "youtube_channel_id": [
+      "UCkLoBAZQLHv9pwHqmmdBeGg",
+      "UClhz5gOIgcW-0jTpq90N9dw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2112495"
   },
   {
     "name": "Aziatix",
-    "spotify_id": "",
-    "youtube_channel_id": ["UCZxYU1SWt1tRAkQKFjfJrQw"],
-    "melon_url": "",
-    "soundcloud_user_id": "aziatix"
+    "spotify_id": "6mo8IDrkfAXoqIk6hjl1eJ",
+    "youtube_channel_id": [
+      "UCZxYU1SWt1tRAkQKFjfJrQw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=538221"
+  },
+  {
+    "name": "BABYLON",
+    "spotify_id": "3P16F9giedxmc5238b66bo",
+    "youtube_channel_id": [
+      "UCTe2A7tr5tuIe8ZOsf9YBrQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=873322"
   },
   {
     "name": "Bas Bao",
     "spotify_id": "0hKuWSrSFMRRNAh6t8wGXT",
-    "youtube_channel_id": ["UCxpe9zSshSvR6McLvMD6tTQ"],
-    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2296172",
-    "soundcloud_user_id": "3jfnunwnu1ow"
+    "youtube_channel_id": [
+      "UCxpe9zSshSvR6McLvMD6tTQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2296172"
+  },
+  {
+    "name": "Beenzino",
+    "spotify_id": "7IrDIIq3j04exsiF3Z7CPg",
+    "youtube_channel_id": [
+      "UCl-tyxErWS-1ElS8UM8jryQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=532029"
+  },
+  {
+    "name": "BEWHY",
+    "spotify_id": "1wsoV3RXPkxVz3PwsNRI5K",
+    "youtube_channel_id": [
+      "UCManvmyxmnrWcmlm8_VfiAA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=739740"
+  },
+  {
+    "name": "B-FREE",
+    "spotify_id": "5xHC23kCM6goKp7bDDXE3T",
+    "youtube_channel_id": [
+      "UCmKIhzum-ieVRF-jS7-H02Q"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=402820"
+  },
+  {
+    "name": "Big Naughty",
+    "spotify_id": "7cEaNXXTHx3LokbjUUyHal",
+    "youtube_channel_id": [
+      "UC9dIQRHQwB6cvfymHRvJ7mA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2744750"
+  },
+  {
+    "name": "Bigone",
+    "spotify_id": "0bQhUyXffQjkd6horP6fKX",
+    "youtube_channel_id": [
+      "UC6dBcqQrm0ylqw1iWvanNIw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=696532"
+  },
+  {
+    "name": "Bill Stax",
+    "spotify_id": "459tVR1zPUmVwOROer0adD",
+    "youtube_channel_id": [
+      "UCxVLY7rF47U7lznagLl8zKQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=27652"
+  },
+  {
+    "name": "Bizzy",
+    "spotify_id": "4w7y9BkDnf9hhjzQH6Br41",
+    "youtube_channel_id": [],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=27644"
+  },
+  {
+    "name": "BLACKNUT",
+    "spotify_id": "0T8sqjCB5w57zxvW5lp3qJ",
+    "youtube_channel_id": [],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=727519"
+  },
+  {
+    "name": "BLASÉ",
+    "spotify_id": "6XsOOgLCtnkkOv2uhZXuB0",
+    "youtube_channel_id": [
+      "UCHy6iONVpToNM0cHKjdzjXQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2113072"
+  },
+  {
+    "name": "BLOO",
+    "spotify_id": "3ghCvruix2FYZ81DHRlOt1",
+    "youtube_channel_id": [
+      "UCfzIMxyLgPPbQWuEDqvXAcQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=980594"
+  },
+  {
+    "name": "Boi B",
+    "spotify_id": "7MJnvH71CgBGCN9obN4aY5",
+    "youtube_channel_id": [
+      "UC25P5vPTAiSgnOmypHAvWGA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=340668"
   },
   {
     "name": "BRADYSTREET",
-    "spotify_id": "",
-    "youtube_channel_id": [""],
-    "melon_url": "",
-    "soundcloud_user_id": "chincster"
+    "spotify_id": "5VWEpJSb8drkormu61Yb5j",
+    "youtube_channel_id": [
+      "UC2JLZIZMsNuNAik_1zQsCSA",
+      "UCnMSN46aMYIfObJT21Ve0CQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2297239"
+  },
+  {
+    "name": "BRYAN CHASE",
+    "spotify_id": "0qOcjTObT75YJLbDBfSgXw",
+    "youtube_channel_id": [
+      "UCJ-TzHcUvtXn6VN48Xs2FhA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=913839"
+  },
+  {
+    "name": "Bully Da Bastard",
+    "spotify_id": "3ouWRqbgJCttI2ucJsaWvL",
+    "youtube_channel_id": [
+      "UCwpajAQx2LmvVHz2CC0n2sw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=1024488"
+  },
+  {
+    "name": "Camo",
+    "spotify_id": "2YkhzcYyxJvtl5W6pY0PuF",
+    "youtube_channel_id": [
+      "UCnkMqBj6Hk8YkXquey9xmew"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2858683"
+  },
+  {
+    "name": "Camo Starr",
+    "spotify_id": "1ndsWvMxObInmUs5twzbYQ",
+    "youtube_channel_id": [],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=713424"
+  },
+  {
+    "name": "CHA CHA MALONE",
+    "spotify_id": "7632p5JJi58r3q9GfhqSyF",
+    "youtube_channel_id": [
+      "UCUu3NWlKVWNG6_NCTK7LJYw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=601973"
   },
   {
     "name": "Cha Woo Joo",
-    "spotify_id": "",
-    "youtube_channel_id": ["UCawERZieoXkC48P-x2nZSiA"],
-    "melon_url": "",
-    "soundcloud_user_id": "carspacecar"
+    "spotify_id": "6mScVyqAyNG48yrL20Rdd4",
+    "youtube_channel_id": [
+      "UCawERZieoXkC48P-x2nZSiA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2863495"
+  },
+  {
+    "name": "Chancellor",
+    "spotify_id": "0u06YeydlBk3awnk5KgdBx",
+    "youtube_channel_id": [
+      "UCIcjOmEJRRt0ERWCSxrdgKQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=730650"
   },
   {
     "name": "CHANGMO",
-    "spotify_id": "",
-    "youtube_channel_id": [""],
-    "melon_url": "",
-    "soundcloud_user_id": "changmo"
+    "spotify_id": "3hvinNZRzTLoREmqFiKr1b",
+    "youtube_channel_id": [
+      "UCj1partPHjSV9Hf23adjgLQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=774900"
+  },
+  {
+    "name": "Chin",
+    "spotify_id": "3YxtjzaXsF9cVq2MlIe6cw",
+    "youtube_channel_id": [],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2754651"
+  },
+  {
+    "name": "Choiza",
+    "spotify_id": "3vvgBPro7lDMdReL1Ct2Hx",
+    "youtube_channel_id": [
+      "UCFkNtLiseLCc6v2D_Y6biGQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=3262"
+  },
+  {
+    "name": "Cjamm",
+    "spotify_id": "2ZT3bnHPOdErwCLdP5aHqR",
+    "youtube_channel_id": [
+      "UCRcBCArFH9-E0koYSizEvZA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=729560"
+  },
+  {
+    "name": "CK",
+    "spotify_id": "18BQUbq4XCDInT5wWN54O8",
+    "youtube_channel_id": [
+      "UChUnAH2TgKGqixNr7LGUYCQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2754650"
   },
   {
     "name": "CLIQUE",
-    "spotify_id": "",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "cliquestn"
-  },
-  {
-    "name": "Cloudybay",
-    "spotify_id": "",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "72ong9ryv9gb"
-  },
-  {
-    "name": "Cri De Joie",
-    "spotify_id": "",
-    "youtube_channel_id": ["UCJ3LXVN1RLaLCm_VgpCnuLA"],
-    "melon_url": "",
-    "soundcloud_user_id": "cridejoie"
-  },
-  {
-    "name": "D-Hack",
-    "spotify_id": "",
-    "youtube_channel_id": ["UCCRnbTMDWHvc74fx7o4dtYQ"],
-    "melon_url": "",
-    "soundcloud_user_id": "dhack"
-  },
-  {
-    "name": "DINDIN",
-    "spotify_id": "",
-    "youtube_channel_id": ["UCZQ0Ey9zTdsdi9uS3tWTC1Q"],
+    "spotify_id": "0tuInmKPQCokyUPFyPiAtf",
+    "youtube_channel_id": [],
     "melon_url": ""
   },
   {
-    "name": "DIVINE",
-    "spotify_id": "",
-    "youtube_channel_id": [""],
-    "melon_url": "",
-    "soundcloud_user_id": "indivineroom"
+    "name": "Cloudybay",
+    "spotify_id": "0FyGoy4Ek4dQGoMM65eZ0z",
+    "youtube_channel_id": [
+      "UCBMB2S6NCZajFo8kpRwTf-w"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2061812"
+  },
+  {
+    "name": "Code Kunst",
+    "spotify_id": "4WnO2VmlwdTX77ANsThWLQ",
+    "youtube_channel_id": [
+      "UCICcfNfiEMjYJvNxwnlDJHQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=724086"
+  },
+  {
+    "name": "Colde",
+    "spotify_id": "3VQDqjQ4wJyw8PzpGdlZpB",
+    "youtube_channel_id": [
+      "UCZFpMuxoquMkvyWkBNFHMwQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=1183063"
+  },
+  {
+    "name": "Cosmic boy",
+    "spotify_id": "305pg6Bs6Mz9Tm2zK66psY",
+    "youtube_channel_id": [
+      "UCD27mo2uwzkai2h-dwWISOw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=1230183"
+  },
+  {
+    "name": "Cri De Joie",
+    "spotify_id": "4UYnvoqzkDqejfmcWbz8s1",
+    "youtube_channel_id": [
+      "UCJ3LXVN1RLaLCm_VgpCnuLA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=1273772"
+  },
+  {
+    "name": "Crucial Star",
+    "spotify_id": "4vdAgNz4vrUZVvS0CaVvGJ",
+    "youtube_channel_id": [
+      "UC5OBmqxzDB-Pq3wXW4KYQKw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=454001"
+  },
+  {
+    "name": "CRUSH",
+    "spotify_id": "6aLdhHUqgdKE86xbtNmY8g",
+    "youtube_channel_id": [
+      "UCEU3spVQMmXrU0Nqhw00Gpg"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=674710"
+  },
+  {
+    "name": "DBO",
+    "spotify_id": "7pMFAOPNBL5beBLW4Pohst",
+    "youtube_channel_id": [
+      "UCJoxWOj-A2MppZzz-lTWFbQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=831169"
+  },
+  {
+    "name": "Dean",
+    "spotify_id": "3eCd0TZrBPm2n9cDG6yWfF",
+    "youtube_channel_id": [
+      "UCnCEKlzi52Yzj2JdBFhKVEA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=880630"
+  },
+  {
+    "name": "Deepflow",
+    "spotify_id": "4E7PyG6Vo26X1I9qURf45z",
+    "youtube_channel_id": [
+      "UCqSk43xOUYxA5aw-pDUIX6Q"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=226587"
+  },
+  {
+    "name": "D-Hack",
+    "spotify_id": "6Ycj4hhpz2nOfsYCU1gHqR",
+    "youtube_channel_id": [
+      "UCTqF0L1pSMUYe7jCNlyGhPg"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=785501"
+  },
+  {
+    "name": "DINDIN",
+    "spotify_id": "63cvWayCvPbWYNDi537w0z",
+    "youtube_channel_id": [
+      "UCZQ0Ey9zTdsdi9uS3tWTC1Q"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=735541"
+  },
+  {
+    "name": "Dok2",
+    "spotify_id": "0rW6fVd3yuW2CF2sLYWQtE",
+    "youtube_channel_id": [
+      "UCjFl5w7J7zl5hB8jupQdUsQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=314367"
+  },
+  {
+    "name": "Don Malik",
+    "spotify_id": "1DKIdDHKHi3rIwG4UB5zLE",
+    "youtube_channel_id": [
+      "UCfDX9Fyv6iLSHxZW3oVIQtA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=789943"
+  },
+  {
+    "name": "DON MILLS",
+    "spotify_id": "6bIsFWNkjQvSm5P4rqlxKn",
+    "youtube_channel_id": [
+      "UCEfUBg-LhLlrzntdfViUSpg"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=729407"
   },
   {
     "name": "Don Pablo",
-    "spotify_id": "",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "donpablokr"
+    "spotify_id": "3ev7pt17WK1AYXdbxbrxwk",
+    "youtube_channel_id": [],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2916228"
+  },
+  {
+    "name": "DPR Live",
+    "spotify_id": "0siBQaURCli5wn2lqv8WZg",
+    "youtube_channel_id": [
+      "UCqNHUKcn3dEtWyuGZ5Gv9rw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=943516"
+  },
+  {
+    "name": "Dynamic Duo",
+    "spotify_id": "4nvFFLtv7ZqoTr83387uK4",
+    "youtube_channel_id": [
+      "UC_AGxNvse-OseHxJ-AYT4FA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=108358"
   },
   {
     "name": "E SENS",
+    "spotify_id": "6a8cUmqOsXmjzq1aWKiVpH",
+    "youtube_channel_id": [
+      "UCbeS1HSnPYyubO4DrcMU7Pw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=651631"
+  },
+  {
+    "name": "Effie",
+    "spotify_id": "5PIWabZPdU3YWRMbvD5nQJ",
+    "youtube_channel_id": [
+      "UCtacERTxFDQvgX3PHrnuILA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2881094"
+  },
+  {
+    "name": "ELO",
+    "spotify_id": "15KDb2KpZRvX1updtyinK1",
+    "youtube_channel_id": [],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=720968"
+  },
+  {
+    "name": "Epik High",
+    "spotify_id": "5snNHNlYT2UrtZo5HCJkiw",
+    "youtube_channel_id": [
+      "UCTcEu0jaf3DrsTjnGwwvsvA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=108356"
+  },
+  {
+    "name": "Fana",
+    "spotify_id": "4mUsQKPUlPpTe2C1MPW1QT",
+    "youtube_channel_id": [
+      "UCxGdHkGA3Li3QWehFUhvhyA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=167998"
+  },
+  {
+    "name": "Feel Ghood Music",
     "spotify_id": "",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "esensofficial"
+    "youtube_channel_id": [
+      "UC8gRco988IELoTNTl4OBd2w"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=1813790"
   },
   {
     "name": "Flavordash",
     "spotify_id": "0Kgi74qpkjvPaP3XoY3wS2",
-    "youtube_channel_id": ["UCLYBRNPjV7Gd3fCoWJOctiA"],
-    "melon_url": "",
-    "soundcloud_user_id": "flavordash"
+    "youtube_channel_id": [
+      "UCLYBRNPjV7Gd3fCoWJOctiA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=1221204"
   },
   {
     "name": "Flowsik",
     "spotify_id": "4N2CbwZ7ekytt9Oi5dh4Vq",
-    "youtube_channel_id": ["UCGydNoq-dfFT4eLcfyTmuWg"],
-    "melon_url": "",
-    "soundcloud_user_id": "officialflowsik"
+    "youtube_channel_id": [
+      "UCGydNoq-dfFT4eLcfyTmuWg"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=674757"
+  },
+  {
+    "name": "Futuristic Swaver",
+    "spotify_id": "1IoxcWz8vPDGOJBQNCGEvF",
+    "youtube_channel_id": [
+      "UCKm755Pa1dPVJZYO4zttm4g",
+      "UCj0aNw1stt2QEnNPqyLrAOw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=827147"
+  },
+  {
+    "name": "G.Soul",
+    "spotify_id": "2g6M5TJXh8K8I7NYaoH4Xe",
+    "youtube_channel_id": [
+      "UCxOVTOG1zcuK32oXMeI1cmA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=59194"
+  },
+  {
+    "name": "G2",
+    "spotify_id": "4ueZwsEtcqcO0IZywqgk66",
+    "youtube_channel_id": [
+      "UCaEJHkb54dFrzdutPkIVegA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=654552"
+  },
+  {
+    "name": "GAEKO",
+    "spotify_id": "0tkHE1pQ5ZCgQb8WZ0ba79",
+    "youtube_channel_id": [
+      "UCkmqGZf8s-x01_mGVegIBNA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=3264"
+  },
+  {
+    "name": "Geegooin",
+    "spotify_id": "6i47wcSLvsZ9M01UO7zsua",
+    "youtube_channel_id": [
+      "UCKlXSSI7GsRf5W0jcpYHJdQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=674725"
   },
   {
     "name": "GGM Records",
-    "spotify_id": "",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "ggmgang"
+    "spotify_id": "3fepCnKYVoGTdTIXVjJDMU",
+    "youtube_channel_id": [
+      "UCE5Oej63UpIS7lMDG5iV3bA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2755204"
+  },
+  {
+    "name": "GIRIBOY",
+    "spotify_id": "2MtHuR0W2idZdF7x4wddqq",
+    "youtube_channel_id": [
+      "UCAqcRG13AlJRbtQC-gnfx8w"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=585492"
   },
   {
     "name": "GIST",
-    "spotify_id": "",
-    "youtube_channel_id": ["UCfyprgTxtEBNgsYdZQ-Jp5g"],
-    "melon_url": "",
-    "soundcloud_user_id": "ccthljlmtfck"
+    "spotify_id": "7MWT3sTDz6GemZla4Y5oCk",
+    "youtube_channel_id": [
+      "UCfyprgTxtEBNgsYdZQ-Jp5g"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2635191"
+  },
+  {
+    "name": "Gray",
+    "spotify_id": "3kPEBSt7qgVoRZSbIXMr7W",
+    "youtube_channel_id": [],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=672625"
   },
   {
     "name": "GYU HYUK",
     "spotify_id": "4CR6l2Eylrakt5FBP6I7hr",
-    "youtube_channel_id": "UCM3jrojfN7MSopuJcKmUhFw",
-    "melon_url": "",
-    "soundcloud_user_id": "gyuhyuk"
+    "youtube_channel_id": [
+      "UCM3jrojfN7MSopuJcKmUhFw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2907877"
   },
   {
-    "name": "Hanul Lee",
-    "spotify_id": "",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "hanull1"
+    "name": "H1GHR MUSIC",
+    "spotify_id": "2a3wtqb5oDZFegk1xPJu7K",
+    "youtube_channel_id": [
+      "UC6TJkBRLMFJ-9c7pXehoZwg"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2086132"
+  },
+  {
+    "name": "h3hyeon",
+    "spotify_id": "2VjfPlcTFJhQSe8ALJJ1dz",
+    "youtube_channel_id": [
+      "UCAhZrNX_O0RDj4dF9H4HHuw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2636173"
   },
   {
     "name": "HAN YOHAN",
-    "spotify_id": "",
-    "youtube_channel_id": ["UCYWuuQwpo6rflQQh-dKQLyA"],
-    "melon_url": "",
-    "soundcloud_user_id": "yohanheaven"
+    "spotify_id": "0yHrFzi7dWriMWhB5XA99P",
+    "youtube_channel_id": [
+      "UCYWuuQwpo6rflQQh-dKQLyA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=716984"
+  },
+  {
+    "name": "Hangzoo",
+    "spotify_id": "0m5ETFICJLAg6ageqa9FgZ",
+    "youtube_channel_id": [
+      "UCum1kiz4X0b_3HBTOm9rAuw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=340669"
+  },
+  {
+    "name": "Hanhae",
+    "spotify_id": "1CjHzclPOS2unF1vRtgurF",
+    "youtube_channel_id": [
+      "UCsTjitDbkUW20H3U20ITqaw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=602174"
+  },
+  {
+    "name": "Hanul Lee",
+    "spotify_id": "72rNrCObB3Jo73R6Wo9xTm",
+    "youtube_channel_id": [
+      "UCkWQFXmGKcsMNl4cdtK_9iQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=828501"
+  },
+  {
+    "name": "Haon",
+    "spotify_id": "2krUNMgFZYm5s4Nn0g91W9",
+    "youtube_channel_id": [
+      "UCa6xaGioOMH9tlLNlPI7OMQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2112493"
+  },
+  {
+    "name": "Hash Swan",
+    "spotify_id": "3yVEZNS0ateVfoj8FuazKg",
+    "youtube_channel_id": [
+      "UCbjP4q2i6QbjX8pE2jveOKQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=827434"
+  },
+  {
+    "name": "HD BL4CK",
+    "spotify_id": "0hcNEkXJ9p0fVTsuFeNbZd",
+    "youtube_channel_id": [
+      "UCUPi1vr_lp8cvBklKnyBBQA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=693171"
+  },
+  {
+    "name": "Heize",
+    "spotify_id": "5dCvSnVduaFleCnyy98JMo",
+    "youtube_channel_id": [
+      "UCsXigGjbC_l4ttk-oahTfVg"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=751611"
+  },
+  {
+    "name": "Homies",
+    "spotify_id": "3PpfvyyncoZ79IgYe0Uls0",
+    "youtube_channel_id": [
+      "UC7M1Kg7OSnOMo1GCbKRvuMQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2754623"
+  },
+  {
+    "name": "Hoody",
+    "spotify_id": "7lXgbtBDcCRbfc5f8FhGUL",
+    "youtube_channel_id": [
+      "UCrsZfIg0z0iYIKEHXnQ6x1w"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=735515"
   },
   {
     "name": "HOON",
-    "spotify_id": "",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "hyeonhoony"
+    "spotify_id": "1VTv19vFoeiKs28gOzntpL",
+    "youtube_channel_id": [
+      "UC6EXBfH1zkJk3yG1TTzLoDA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2862069"
+  },
+  {
+    "name": "Huckleberry P",
+    "spotify_id": "4meeMnr8eLacsB31ApsXZS",
+    "youtube_channel_id": [
+      "UCakpJvdXIN9aMOXmuLqQEtQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=567813"
   },
   {
     "name": "ILLIONAIRE RECORDS",
-    "spotify_id": "",
-    "youtube_channel_id": ["UCWXxoaQ9rUg-dw6W_ue-v0Q"],
-    "melon_url": "",
-    "soundcloud_user_id": "1llionaire"
+    "spotify_id": "0cFZMug8SFBmK1saAOhC3z",
+    "youtube_channel_id": [
+      "UCWXxoaQ9rUg-dw6W_ue-v0Q"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=556100"
+  },
+  {
+    "name": "Illson",
+    "spotify_id": "3tky4Wd4sPBqtiHVdAr9R8",
+    "youtube_channel_id": [
+      "UCDrKnZmToCzHQIdD4M3M5HQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=164737"
+  },
+  {
+    "name": "INCREDIVLE",
+    "spotify_id": "10DC7UmwtLsdVCBZ0jfsW7",
+    "youtube_channel_id": [],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=858852"
+  },
+  {
+    "name": "Ja Mezz",
+    "spotify_id": "1q1Fe4tXiu1Weq4U0uhqPi",
+    "youtube_channel_id": [
+      "UCU1o5KG6sBP4aMEci9C3gjQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=743761"
   },
   {
     "name": "JAEHA",
-    "spotify_id": "",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "jaeha8323"
+    "spotify_id": "4CF0QZtzsHDYdTHqipMGdh",
+    "youtube_channel_id": [
+      "UCwwTeg8maLWGQpTAQi2sQXA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2862839"
+  },
+  {
+    "name": "Jay Park",
+    "spotify_id": "4XDi67ZENZcbfKnvMnTYsI",
+    "youtube_channel_id": [
+      "UCK5fO9Q2gitao0M5yQvPnvw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=443420"
   },
   {
     "name": "Jayci yucca",
-    "spotify_id": "",
-    "youtube_channel_id": ["UCah62PzGjQl7oobAi3E0zBQ"],
-    "melon_url": "",
-    "soundcloud_user_id": "jayciyucca"
+    "spotify_id": "6yFuoRFCsxQLasjZqdwvAM",
+    "youtube_channel_id": [
+      "UCah62PzGjQl7oobAi3E0zBQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2112746"
   },
   {
     "name": "Jessi",
-    "spotify_id": "",
-    "youtube_channel_id": ["UCN2bQLTTvNPZWCWU5TYghKA"],
-    "melon_url": ""
+    "spotify_id": "64k5e9kV9MdukXjFrR5R37",
+    "youtube_channel_id": [
+      "UCN2bQLTTvNPZWCWU5TYghKA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=176393"
   },
   {
     "name": "JJAX",
-    "spotify_id": "",
-    "youtube_channel_id": ["UCjbTy71uPuuqky0g1GkRH2g"],
-    "melon_url": "",
-    "soundcloud_user_id": "thenameisjjax"
+    "spotify_id": "4lFWYe3BfUH22wUrAR8nzB",
+    "youtube_channel_id": [
+      "UCjbTy71uPuuqky0g1GkRH2g"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=784995"
   },
   {
     "name": "JOHNY KWONY",
     "spotify_id": "3DRlzrjFxT9zWaWI9RzQwx",
-    "youtube_channel_id": ["UCxM6Ndu87VGT6mXjSkwK9Lg"],
-    "melon_url": "https://www.melon.com/artist/song.htm?artistId=982617",
-    "soundcloud_user_id": "johnykwony"
+    "youtube_channel_id": [
+      "UCxM6Ndu87VGT6mXjSkwK9Lg"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=982617"
+  },
+  {
+    "name": "JUNOFLO",
+    "spotify_id": "5ZjBaiZiRUZx4AmlzOOc9R",
+    "youtube_channel_id": [
+      "UCjawh2T2rVH1u5K-AdvkGQQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=782332"
+  },
+  {
+    "name": "JUSTHIS",
+    "spotify_id": "0Ch0t9gI47Lkal71uQnmV3",
+    "youtube_channel_id": [
+      "UC1YvLoq9XPW5Kg2i9sZGCJg"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=786499"
   },
   {
     "name": "JUTO",
-    "spotify_id": "",
-    "youtube_channel_id": [""],
-    "melon_url": "",
-    "soundcloud_user_id": "juto77"
+    "spotify_id": "7HJsFAB2CpPpMxBNntMT5c",
+    "youtube_channel_id": [
+      "UCydIALnke5uMDuv083Lnw5g"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2759896"
+  },
+  {
+    "name": "Jvcki Wai",
+    "spotify_id": "4bjcB3ZKiHgPzJvY2S2FLN",
+    "youtube_channel_id": [
+      "UCdIpZ6SbpNLFmFhQMd5ziXw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=982316"
+  },
+  {
+    "name": "Keem Hyo Eun",
+    "spotify_id": "59KuGY6nfY3w39O0qYVA7p",
+    "youtube_channel_id": [
+      "UCJrizhKhrz1BAJ0h7UW5KNw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=1024715"
+  },
+  {
+    "name": "KEITH APE",
+    "spotify_id": "6f9bmfkqiYbhCtdAZsv7KI",
+    "youtube_channel_id": [
+      "UCarC71RNfDIN1GCUhTyI4pg"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=785239"
+  },
+  {
+    "name": "KHAN",
+    "spotify_id": "13jYpBHek9LD68d1ZwWmu5",
+    "youtube_channel_id": [
+      "UCbUvO-4piZNffsHfbrSQFzw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2741140"
+  },
+  {
+    "name": "KHUNDI PANDA",
+    "spotify_id": "32wJE7JooXm59HxYhy7caU",
+    "youtube_channel_id": [
+      "UC3ey9Jh7b_WXfBZp2F8a8QA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=1703507"
+  },
+  {
+    "name": "Kid Milli",
+    "spotify_id": "7IWshUcKfJyDWrbiF2XT8J",
+    "youtube_channel_id": [
+      "UCYzWVpdZqtp6Ihtzy4_9M3g"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=873162"
   },
   {
     "name": "Kid Wine",
-    "spotify_id": "",
-    "youtube_channel_id": ["UC-3jSr9WmSsmBcBrfq4pE1w"],
-    "melon_url": "",
-    "soundcloud_user_id": "kidwine"
+    "spotify_id": "4AUvnqezrLIzhkWD7TuICb",
+    "youtube_channel_id": [
+      "UC-3jSr9WmSsmBcBrfq4pE1w"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=914277"
   },
   {
-    "name": "kimmuseum",
-    "spotify_id": "",
-    "youtube_channel_id": ["UCpXI0DzrdtlppFSkSAsg0aw"],
-    "melon_url": "",
-    "soundcloud_user_id": "kimmuseum"
+    "name": "Killagramz",
+    "spotify_id": "4YMP326oNG8AQdTRang2yA",
+    "youtube_channel_id": [
+      "UCdgcUvOamabtUBcktYBiaDA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=1023874"
   },
   {
     "name": "KIM SEUNG-MIN",
-    "spotify_id": "",
-    "youtube_channel_id": [""],
-    "melon_url": "",
-    "soundcloud_user_id": "sm95-1"
+    "spotify_id": "31VffPWiL2AAwNIMODB9qZ",
+    "youtube_channel_id": [
+      "UCNpObHElUk-URbs0wvC6rTw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=827322"
   },
   {
-    "name": "KURO",
-    "spotify_id": "",
-    "youtube_channel_id": [""],
-    "melon_url": "",
-    "soundcloud_user_id": "itskurofficial"
+    "name": "kimmuseum",
+    "spotify_id": "1NVRvV0KqaO7VtSaVQcm3V",
+    "youtube_channel_id": [
+      "UCpXI0DzrdtlppFSkSAsg0aw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2113930"
+  },
+  {
+    "name": "Kisum",
+    "spotify_id": "1CArfopvfCxakFJHup55FW",
+    "youtube_channel_id": [
+      "UCQMdQl3rXljevX80JhddW5w"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=748510"
+  },
+  {
+    "name": "KITTIB",
+    "spotify_id": "3inqDrxKHZeWUvf8RHbJ6t",
+    "youtube_channel_id": [
+      "UCSoZCm-_ERcsPdxUQFMAqzw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=680911"
+  },
+  {
+    "name": "KOREANGROOVE",
+    "spotify_id": "51kKa2NlubrcVgPEoxUQv6",
+    "youtube_channel_id": [
+      "UCSD7bwZHty31R53oqNLCU_Q"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2243328"
   },
   {
     "name": "KSmartBoi",
-    "spotify_id": "",
-    "youtube_channel_id": ["UCzTMFqmA9cXVR2MBBiEOJFg"],
-    "melon_url": ""
+    "spotify_id": "6iBjPtCEGarFwpdJUc39P9",
+    "youtube_channel_id": [
+      "UCzTMFqmA9cXVR2MBBiEOJFg"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2761754"
   },
   {
-    "name": "Leellamarz",
-    "spotify_id": "",
-    "youtube_channel_id": [""],
-    "melon_url": "",
-    "soundcloud_user_id": "leellamarz"
-  },
-  {
-    "name": "LeeSsang",
-    "spotify_id": "",
-    "youtube_channel_id": [""],
-    "melon_url": "",
-    "soundcloud_user_id": "officialleessang"
+    "name": "KURO",
+    "spotify_id": "5fgP8B58gK5ImP0wcoyj10",
+    "youtube_channel_id": [
+      "UCSCYlqJxOXI3KM2ZkyVHfEg"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=856762"
   },
   {
     "name": "Lee SuReen",
-    "spotify_id": "",
-    "youtube_channel_id": [""],
-    "melon_url": "",
-    "soundcloud_user_id": "csb4biidawa3"
+    "spotify_id": "0hoIUrMFR0Cy6aTbma8b2o",
+    "youtube_channel_id": [
+      "UC5Rbpbjryf0Pa4QeoA9gMZg"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=1628094"
   },
   {
-    "name": "Leeyoungwoong",
-    "spotify_id": "",
-    "youtube_channel_id": [""],
-    "melon_url": "",
-    "soundcloud_user_id": "bemyeyesie"
+    "name": "Lee youngwoong",
+    "spotify_id": "3pQE99nkpeYGBaagZh6zIk",
+    "youtube_channel_id": [
+      "UC7-QedQBk8bTZoxO3yzgmVw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2880123"
+  },
+  {
+    "name": "Leellamarz",
+    "spotify_id": "79g2STpP2iV1xfgHuhrhX0",
+    "youtube_channel_id": [
+      "UCgLDjRtLGP_t7LxDSg1RL2Q"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=967229"
+  },
+  {
+    "name": "LeeSsang",
+    "spotify_id": "0JGN9XIqm3vfg7hhPHjExI",
+    "youtube_channel_id": [
+      "UCwWoDgX_W0go5P4z9RHPwBw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=103289"
   },
   {
     "name": "Lil Bemo",
-    "spotify_id": "",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "lilbemo"
+    "spotify_id": "0EWqxzOofXr83TfJeA6ARZ",
+    "youtube_channel_id": [
+      "UCuS7fQAhA1JZRuOm1JBpmLQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2928853"
+  },
+  {
+    "name": "Lil Boi",
+    "spotify_id": "25wMXkplvEHJpJHX8A6Ved",
+    "youtube_channel_id": [
+      "UCyWbSZQ0_rtsU9ZZ-u74GdA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=623251"
+  },
+  {
+    "name": "Lil Gimchi",
+    "spotify_id": "6GlkZqxomTSlcJUh9WvVKQ",
+    "youtube_channel_id": [
+      "UCio-U_mTc3XrSYwdIk853NA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2932731"
+  },
+  {
+    "name": "LIPNINE",
+    "spotify_id": "1q5u8LnvomvAmiMhg8kRDp",
+    "youtube_channel_id": [
+      "UCMe4irY0PASy30up3vD7qBw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2902883"
   },
   {
     "name": "LIVRSIDE",
     "spotify_id": "",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "livrsideofficial"
+    "youtube_channel_id": [],
+    "melon_url": ""
+  },
+  {
+    "name": "LOCO",
+    "spotify_id": "2e4G04F77jxVuDYo44TCSm",
+    "youtube_channel_id": [
+      "UC6LDN3o8NfeDnDFtwFLLprA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=688432"
+  },
+  {
+    "name": "Loopy",
+    "spotify_id": "3l9s67pOK4Stw9yW1wr0Bg",
+    "youtube_channel_id": [
+      "UCI_33dy48k18Jsw9-fpZzwg"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=957315"
+  },
+  {
+    "name": "Los",
+    "spotify_id": "396SgLoc5TB6oqatyTy2HD",
+    "youtube_channel_id": [],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=1628539"
+  },
+  {
+    "name": "Louie",
+    "spotify_id": "",
+    "youtube_channel_id": [],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2753718"
   },
   {
     "name": "LUXURY VILLA",
-    "spotify_id": "",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "luxuryvilla"
+    "spotify_id": "6S5VXCpcXZBElEPXK6OZnm",
+    "youtube_channel_id": [],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2113931"
   },
   {
     "name": "M1NU",
-    "spotify_id": "",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "minuminu03"
+    "spotify_id": "2JDfkwLPoHoH1EKw6Og6uH",
+    "youtube_channel_id": [
+      "UCqXTet5bCLodNfYuZRSJyaA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2748100"
+  },
+  {
+    "name": "Mad Clown",
+    "spotify_id": "0dX6tgZKWpamoFHFuXFhwd",
+    "youtube_channel_id": [
+      "UCTFz4AoNe7sFsqmnAikjVcA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=219621"
+  },
+  {
+    "name": "MASTA WU",
+    "spotify_id": "7ndYLcobuKuq9ZcoIAVvU6",
+    "youtube_channel_id": [
+      "UCSSm5ijG25YRZJqahvEUiYA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=6979"
+  },
+  {
+    "name": "MELOH",
+    "spotify_id": "5Qb6QmI6WUeGFaJeGB5fdg",
+    "youtube_channel_id": [
+      "UCf4AE16qfTW5Dip8Y5dqGxA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2747956"
+  },
+  {
+    "name": "MICRODOT",
+    "spotify_id": "1ToWoFmtIc9NTPFy7lR690",
+    "youtube_channel_id": [
+      "UCwwPDeypLdm7iSoLxYUudHw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=716177"
+  },
+  {
+    "name": "Millic",
+    "spotify_id": "3fHPyTsMe9svn7cz1MWbfx",
+    "youtube_channel_id": [
+      "UCh3vukYV3ueFvxfn3vmWGgQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=994489"
   },
   {
     "name": "Mommy Son",
-    "spotify_id": "",
-    "youtube_channel_id": ["UCvbJ9QMe4jjTsufYh4aDqWA"],
-    "melon_url": ""
+    "spotify_id": "5xWKWXamxbujIdti9xpnI1",
+    "youtube_channel_id": [
+      "UCvbJ9QMe4jjTsufYh4aDqWA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2401407"
+  },
+  {
+    "name": "MYUNDO",
+    "spotify_id": "7wqsGqGaU61FzNh62mbWXz",
+    "youtube_channel_id": [
+      "UCuM0XYSIc8AoiRC_011YDpw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=926455"
+  },
+  {
+    "name": "NAFLA",
+    "spotify_id": "3Zn6C68VCosoQrxu4D2Btr",
+    "youtube_channel_id": [
+      "UCsX7N6g3ykMc_VQ3bwEz2ew"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=756738"
+  },
+  {
+    "name": "NO:EL",
+    "spotify_id": "3S79khDmqHqH3SudDjO6dV",
+    "youtube_channel_id": [
+      "UCZ6uJYWBrdQV50dN8JJbNSQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=1703593"
+  },
+  {
+    "name": "Nochang",
+    "spotify_id": "7t9GBnoezuCQxIIoMaE8KO",
+    "youtube_channel_id": [
+      "UC3NFM7nvnZEmSItn687o1NA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=487865"
+  },
+  {
+    "name": "Nosun",
+    "spotify_id": "0BHYZCuuyLl53LVgeC3pUa",
+    "youtube_channel_id": [
+      "UCSzzGJhW2REGa0maV8HGbwA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=3121113"
+  },
+  {
+    "name": "Nucksal",
+    "spotify_id": "6v5cGuRCZKq08nLI4WXJuB",
+    "youtube_channel_id": [
+      "UCctxgRIBurVvsIfnPYxUDqg"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=672461"
+  },
+  {
+    "name": "OKASIAN",
+    "spotify_id": "5XdnR0kqQUWzeTDdsJNulO",
+    "youtube_channel_id": [],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=561411"
+  },
+  {
+    "name": "OLLTII",
+    "spotify_id": "1l1VfoWjli9N3MJH2tAWCA",
+    "youtube_channel_id": [
+      "UCwbAFhVvjTEELLovM10H_zw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=669972"
+  },
+  {
+    "name": "Osshun Gum",
+    "spotify_id": "4F4rHRjTw15zhEFKvnLs7q",
+    "youtube_channel_id": [
+      "UCUTpS6elky8BCpsjPLUZqUw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=1626547"
   },
   {
     "name": "OSUN",
-    "spotify_id": "",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "osun-293625831"
+    "spotify_id": "5B0qfgiKQ1593oBKreR5Fb",
+    "youtube_channel_id": [
+      "UCoc2ta7-leCcTGRSD_zkVFA",
+      "UCDzpY7NFF3nMy5Kly7E0mCw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2934099"
   },
   {
-    "name": "parkhyeonjin",
-    "spotify_id": "",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "parkhyeonjin"
+    "name": "Owen",
+    "spotify_id": "5rP0axomfqfxm0QavWTdvO",
+    "youtube_channel_id": [
+      "UCQ3bdyONqWWGyRs1-qIe24A"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=860499"
+  },
+  {
+    "name": "Oxynova",
+    "spotify_id": "72b3VgmhJa2YqlypqHdrXa",
+    "youtube_channel_id": [
+      "UCF-zhgangVm3Ve6Q6UYVvVw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=3075405"
+  },
+  {
+    "name": "PALOALTO",
+    "spotify_id": "2Yv0nlRtzgPl6u0dsS2hFv",
+    "youtube_channel_id": [
+      "UCEV6dkyK1yYDwqg44NsqnFQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=170978"
+  },
+  {
+    "name": "PARK HYEON JIN",
+    "spotify_id": "3xaGsC8Wew467UpEKhjXNZ",
+    "youtube_channel_id": [
+      "UCcZGuNhVOiGB7pzqSoRBkaw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=1459223"
   },
   {
     "name": "Paul Blanco",
-    "spotify_id": "",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "paul_blanco"
+    "spotify_id": "2fiGm496AG7ePURQiSSJIw",
+    "youtube_channel_id": [
+      "UCFIo26G3nImrcvqdF48AOfQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=943079"
+  },
+  {
+    "name": "Penomeco",
+    "spotify_id": "1MAUqH0haKBYbjpknTfreY",
+    "youtube_channel_id": [
+      "UCL7Qj7FCHEvvZE_3eqk8lmQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=787227"
+  },
+  {
+    "name": "PH-1",
+    "spotify_id": "2u7CP5T30c8ctenzXgEV1W",
+    "youtube_channel_id": [
+      "UCf5MIIjpO1g6igv4WdUbdYg"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=943511"
+  },
+  {
+    "name": "polodared",
+    "spotify_id": "1Ri5P0CfdNxdIkHX6es8Xd",
+    "youtube_channel_id": [
+      "UCsnfpIPoKsok3zuAs0Bio9g"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2971357"
+  },
+  {
+    "name": "Primary",
+    "spotify_id": "4QDcs3XrA8uHUZ7Xt9Ytep",
+    "youtube_channel_id": [
+      "UCkop82wxg40aqLNrEFPf-wg"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=35682"
   },
   {
     "name": "PULLIK",
-    "spotify_id": "",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "pullik99"
+    "spotify_id": "6vhLgVqFLRdTEilwzSs98z",
+    "youtube_channel_id": [
+      "UCKTCxwU62I7oYaOUIaVzH0Q"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2112494"
+  },
+  {
+    "name": "Punchnello",
+    "spotify_id": "5enwJ9yOnKlCP91ov4Dqhv",
+    "youtube_channel_id": [
+      "UCeJnEjsQZqnbLApgu67rHUA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=782842"
   },
   {
     "name": "PYMEL",
-    "spotify_id": "",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "k3hkyytsdw5s"
+    "spotify_id": "4lcveRjo1vlFWfvLiGIFkg",
+    "youtube_channel_id": [
+      "UCn3V5ojaH6SBLGXcrSgMHrQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2761178"
   },
   {
     "name": "RAZYBOYOCEAN",
-    "spotify_id": "",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "razyboyocean"
+    "spotify_id": "4FAnWHOB4FOHJmr7tVaS4r",
+    "youtube_channel_id": [
+      "UCgsvTWCOObFRYLQvMX-8EKw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2137990"
+  },
+  {
+    "name": "REDDY",
+    "spotify_id": "69H1Ooj2eBJXLTk3IEBV0v",
+    "youtube_channel_id": [],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=568051"
   },
   {
     "name": "RLERVINE",
-    "spotify_id": "",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "pi3nsis1k7pl"
+    "spotify_id": "0aF3CeMVRQ2YqL1Cz4he9i",
+    "youtube_channel_id": [
+      "UCH-_sr9JLwZbKo-GOjO5T_g"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2139956"
+  },
+  {
+    "name": "Rohann",
+    "spotify_id": "10jo9gGaXEw8lAgB3gK0c1",
+    "youtube_channel_id": [
+      "UCM5DY5LhE3gMWLKYG4XGq8A"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2111771"
   },
   {
     "name": "Royal 44",
-    "spotify_id": "",
-    "youtube_channel_id": ["UCFBQ-D86wUBRGgCBhDEWFIQ"],
-    "melon_url": ""
-  },
-  {
-    "name": "SANHA",
-    "spotify_id": "",
-    "youtube_channel_id": ["UCe2ta2Yk9lolVlBX1i3zKgw"],
-    "melon_url": "",
-    "soundcloud_user_id": "clothesoffdotcom"
+    "spotify_id": "6I5eyZiVUpuPwE8mTXp7hC",
+    "youtube_channel_id": [
+      "UCFBQ-D86wUBRGgCBhDEWFIQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2881152"
   },
   {
     "name": "SEIN",
-    "spotify_id": "",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "55v5eyyrjhmg"
+    "spotify_id": "5lFfUYKyl9GIFe3dmrc0eg",
+    "youtube_channel_id": [
+      "UC7kfYcOIKLEXr8ZMPNJjuZA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2858875"
   },
   {
-    "name": "$himmy Boy",
-    "spotify_id": "",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "shimmyboy-9914"
+    "name": "SIK-K",
+    "spotify_id": "5DIi2JWfQPTKffaVBlIYRn",
+    "youtube_channel_id": [
+      "UCxd-HCJDFkaDjpg-y3PgkEA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=786648"
+  },
+  {
+    "name": "Son Simba",
+    "spotify_id": "4q2IjH8TVz7CNSzIiPDV6B",
+    "youtube_channel_id": [],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=873054"
+  },
+  {
+    "name": "Simon Dominic",
+    "spotify_id": "57W9ikVc6O2wLDtmclSjvN",
+    "youtube_channel_id": [
+      "UCfXo9-l8ZFFCM29zu7SQ96w"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=428847"
+  },
+  {
+    "name": "SINCE",
+    "spotify_id": "0seDu6vvqbUnPUk6s6a616",
+    "youtube_channel_id": [
+      "UCAqwo6lI6SJ9-R77YbsSTHA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2138586"
   },
   {
     "name": "Sion",
-    "spotify_id": "",
-    "youtube_channel_id": ["UCQnOwfl2qHJKQ9vz0lhjN4w"],
-    "melon_url": ""
+    "spotify_id": "2dEBKqLtvdFTnPcwpWEw0r",
+    "youtube_channel_id": [
+      "UCQnOwfl2qHJKQ9vz0lhjN4w"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=3112322"
   },
   {
     "name": "Skinny Brown",
-    "spotify_id": "",
-    "youtube_channel_id": ["UCXqqPn_nzzgyNMIzeJRkxFQ"],
-    "melon_url": "",
-    "soundcloud_user_id": "skinnybrownn"
+    "spotify_id": "0E0fq98DMHhkAgiXWpCViX",
+    "youtube_channel_id": [
+      "UCXqqPn_nzzgyNMIzeJRkxFQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2298855"
   },
   {
     "name": "slom",
     "spotify_id": "0UswO8FFKS2tv6dzyNyJLD",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "slominu"
+    "youtube_channel_id": [
+      "UCqVwJ-1COz_7zjsDUPM1K-w"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=958165"
+  },
+  {
+    "name": "Street Baby",
+    "spotify_id": "0tGMuT9HxXQzAEZK9Prlim",
+    "youtube_channel_id": [
+      "UCyxNqxsdpUmJLwxS6b6Xocw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2761328"
   },
   {
     "name": "SUPERBEE",
-    "spotify_id": "",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "hotdamngimchi"
+    "spotify_id": "0Q5XzDpn7DCI5jlubok4xb",
+    "youtube_channel_id": [
+      "UCmB08K6m8Ul790rOSefqU-Q"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=695757"
+  },
+  {
+    "name": "Suran",
+    "spotify_id": "1mORehSVEd7lcaT2d7Sl2K",
+    "youtube_channel_id": [
+      "UCl9xXfV8RueurJOlwQaKizw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=792765"
+  },
+  {
+    "name": "Sway D",
+    "spotify_id": "3HfWEOcXit3EkuRCt5M3Yd",
+    "youtube_channel_id": [
+      "UC3IFdW2ZNT9RnQkkEA7I7-g"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=744767"
+  },
+  {
+    "name": "Swings",
+    "spotify_id": "6F5tPDq3TIduDv2ki6O1Oq",
+    "youtube_channel_id": [
+      "UC9FAi5CfRQ7CoG7Rxx2RMcA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=236970"
+  },
+  {
+    "name": "Tablo",
+    "spotify_id": "3NdOtTPPaXrCyC7Lpmzyhv",
+    "youtube_channel_id": [
+      "UCc6FSirj-a_iG-o_p9SgWKw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=231070"
   },
   {
     "name": "Taeb2",
     "spotify_id": "2PWVaWdOdocqnJhIdaGMRT",
-    "youtube_channel_id": ["UCUKmrq3w4YlMyFExTPQKpZQ"],
-    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2645491",
-    "soundcloud_user_id": "taeb2_0702"
+    "youtube_channel_id": [
+      "UCUKmrq3w4YlMyFExTPQKpZQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2645491"
+  },
+  {
+    "name": "Ted Park",
+    "spotify_id": "4ph6JucAkc6pnPPad0uiJT",
+    "youtube_channel_id": [
+      "UCa5BaKBTvmIFkt_Bnz435IQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=945745"
+  },
+  {
+    "name": "The Quiett",
+    "spotify_id": "2qI1pO64eYqGUiv1XTw4cy",
+    "youtube_channel_id": [
+      "UCagPAaEFev5saPsWpHUTgUQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=27744"
+  },
+  {
+    "name": "Tiger JK",
+    "spotify_id": "11S00dFcvNvJahis8MTGMD",
+    "youtube_channel_id": [
+      "UCxP9CEafG6YN7jWNeg09Hog"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=1630"
   },
   {
     "name": "TimeFeveR",
     "spotify_id": "3jswVC5CJkKeDp8ugPH42m",
-    "youtube_channel_id": ["UC6dFCtUSZJ383yn1ybQBdsg"],
-    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2742307",
-    "soundcloud_user_id": "timefever"
+    "youtube_channel_id": [
+      "UC6dFCtUSZJ383yn1ybQBdsg"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2742307"
   },
   {
     "name": "TOIL",
-    "spotify_id": "",
-    "youtube_channel_id": [""],
-    "melon_url": "",
-    "soundcloud_user_id": "double-eyelid"
+    "spotify_id": "698zn8fEOIr1OrfqG4283S",
+    "youtube_channel_id": [
+      "UCUcXg4wn1h5UmZgeyy6BcRQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2190430"
   },
   {
     "name": "TOMMY YANG",
-    "spotify_id": "",
-    "youtube_channel_id": [""],
-    "melon_url": "",
-    "soundcloud_user_id": "tommy_strate"
+    "spotify_id": "4AO9H2yVIGvb6aTpQ7jW0y",
+    "youtube_channel_id": [
+      "UCa90E4IWVd4Q3FrX74OvCDg"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=1816350"
+  },
+  {
+    "name": "Touch the Sky",
+    "spotify_id": "5DimH6eLRBfesct7V25Juk",
+    "youtube_channel_id": [],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2928844"
+  },
+  {
+    "name": "Trade L",
+    "spotify_id": "6b29EYSqnLhUyxC3yyNbyr",
+    "youtube_channel_id": [
+      "UC6feLiykbhX5sQuJz8N1vCg"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2639052"
   },
   {
     "name": "twlv",
-    "spotify_id": "",
-    "youtube_channel_id": ["UCSfQ5Fh4_pVKvdeFbDmYXNA"],
-    "melon_url": "",
-    "soundcloud_user_id": "twlvdayz"
+    "spotify_id": "7hKH0uNhhgWJCumCtKMYey",
+    "youtube_channel_id": [
+      "UCSfQ5Fh4_pVKvdeFbDmYXNA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2007080"
   },
   {
-    "name": "UNEDUCATED KID",
-    "spotify_id": "",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "uneducatedkid"
+    "name": "Ugly Duck",
+    "spotify_id": "0Qr4St9aCOLu41Nt5QZIz1",
+    "youtube_channel_id": [],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=677911"
   },
   {
     "name": "UNDERCLOUD",
     "spotify_id": "",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "5vercloud"
+    "youtube_channel_id": [],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2855389"
+  },
+  {
+    "name": "UNEDUCATED KID",
+    "spotify_id": "08KbKkPqaYNFYM9R5eMjuM",
+    "youtube_channel_id": [
+      "UCoMEDhoTikktzNMiHypJVEg"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2007637"
   },
   {
     "name": "Untell",
     "spotify_id": "3A1b2Lg9tPuQyR7ab1xgp8",
-    "youtube_channel_id": ["UCmFtUfW7UoNML2mufecetjA"],
-    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2635188",
-    "soundcloud_user_id": "untellimclick"
+    "youtube_channel_id": [
+      "UCmFtUfW7UoNML2mufecetjA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2635188"
+  },
+  {
+    "name": "Verbal Jint",
+    "spotify_id": "24sQuJhQ85ZygDG7sUVUxR",
+    "youtube_channel_id": [
+      "UC0I-WcWrHyk2dCPS4jOB6oQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=6985"
+  },
+  {
+    "name": "Vinxen",
+    "spotify_id": "4T6xiCykTP9rCNaEPU7D4q",
+    "youtube_channel_id": [
+      "UCEDo1u5uayRTrO26ibtv5cA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2113204"
+  },
+  {
+    "name": "Way Ched",
+    "spotify_id": "75OcDAFGCzj0qehe1mADeM",
+    "youtube_channel_id": [
+      "UCoERzGw4bv2nRMoMOJFwmkQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=1271788"
   },
   {
     "name": "WÉREMA",
-    "spotify_id": "",
-    "youtube_channel_id": "",
-    "soundcloud_user_id": "werema_09"
+    "spotify_id": "1ZgFUgl53g8HqkW9UAMmwT",
+    "youtube_channel_id": [
+      "UCAkg-Qrg4fbE2DwhnWu6oFg"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2923116"
+  },
+  {
+    "name": "Woo Won Jae",
+    "spotify_id": "5a8EJtOEbUJDF4RX3mKK02",
+    "youtube_channel_id": [
+      "UCG1ntoSgbcuX2BBjsoCcqXg"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=1866689"
+  },
+  {
+    "name": "Woodie Gochild",
+    "spotify_id": "6iLGJqxVgxxWsJe5bW4dxt",
+    "youtube_channel_id": [
+      "UChcfLfBDmJKgbBLCeVGmIUg"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=1866691"
   },
   {
     "name": "WoodyRose",
-    "spotify_id": "",
-    "youtube_channel_id": ["UCyeIVyafl08RdlpEkGY2nbA"],
-    "soundcloud_user_id": "woodyrose"
+    "spotify_id": "0V58HaWV773KYu4nU3cGBW",
+    "youtube_channel_id": [
+      "UCyeIVyafl08RdlpEkGY2nbA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=687377"
+  },
+  {
+    "name": "Woogie",
+    "spotify_id": "7C0lSOS41UnTbnF7bMSEWN",
+    "youtube_channel_id": [
+      "UCNOxfGj7sJdGdsAP-2V4E4A"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2941757"
   },
   {
     "name": "Wuuslime",
-    "spotify_id": "",
-    "youtube_channel_id": ["UCkv8YgLy0qO9Vg1oKEZwPwA"]
+    "spotify_id": "5f48MQLr5eOXHcR4lFE1BM",
+    "youtube_channel_id": [
+      "UCkv8YgLy0qO9Vg1oKEZwPwA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=4087738"
+  },
+  {
+    "name": "xitsuh",
+    "spotify_id": "4vYWMxCZYe3kua8Yp5Ne2Z",
+    "youtube_channel_id": [
+      "UCYQHUCmiFBeRWDHwoRX_0QA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=745034"
   },
   {
     "name": "Yami Tommy",
-    "spotify_id": "",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "yamitommy"
+    "spotify_id": "5rpYfskWC90uJl9CMx3iEm",
+    "youtube_channel_id": [
+      "UC0yQYiq0mose_CaEawLBsCg",
+      "UCTwRO2mWyNw_1NCeGXFK0DQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2636180"
+  },
+  {
+    "name": "Yang Hong Won",
+    "spotify_id": "1SsVqqC31h54Hg08g7uQhM",
+    "youtube_channel_id": [
+      "UCO4p2LbFEEF1HKm4HnUVjfg"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=907416"
+  },
+  {
+    "name": "Yenjamin",
+    "spotify_id": "6j0FljNxbnbwWqkboBHZH2",
+    "youtube_channel_id": [
+      "UCqAlhfRyGckR3h8X-OnKrBQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2112492"
   },
   {
     "name": "Yes Junior",
-    "spotify_id": "",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "yesjunior24"
+    "spotify_id": "4ps3JPHTs3XJSSmzRqCvKJ",
+    "youtube_channel_id": [
+      "UCLPAmBi9fX-pA31MlMhXzxw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2863927"
   },
   {
     "name": "Yng&Rich Records",
     "spotify_id": "",
-    "youtube_channel_id": ["UCSNQapL0dCkVX2IiQzPASIw"],
-    "melon_url": "",
-    "soundcloud_user_id": "yesjunior24"
+    "youtube_channel_id": [
+      "UCSNQapL0dCkVX2IiQzPASIw"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=3206486"
+  },
+  {
+    "name": "Yong Yong",
+    "spotify_id": "4lgoUoPxqxjZMtN0raCBVK",
+    "youtube_channel_id": [
+      "UCoiHkY0kz47imZzqenU5vDg"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=1705455"
+  },
+  {
+    "name": "Yoon Mi Rae",
+    "spotify_id": "1Do4bSzfUl0KWL9r1fITu0",
+    "youtube_channel_id": [
+      "UCv1sKlSRZwVZm2AaJ8rMQcQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=1654"
+  },
+  {
+    "name": "YUK JIDAM",
+    "spotify_id": "3oO2KBxuGdaUP5SikvEWWB",
+    "youtube_channel_id": [
+      "UCYs70eQPvwy09p733E-HiRg"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=781321"
+  },
+  {
+    "name": "YUMDDA",
+    "spotify_id": "0su5mZ6qhvOUhz7ckEx8rR",
+    "youtube_channel_id": [
+      "UChg_sGDFk1qZf5N97GC8s6w"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=202530"
+  },
+  {
+    "name": "yumewanaii",
+    "spotify_id": "4oLq9qTt8P6pawQN1w9zL8",
+    "youtube_channel_id": [
+      "UC4kiSMeNhy3evTVdYKD7imA"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2631898"
   },
   {
     "name": "Yumin",
-    "spotify_id": "",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "pbmym"
+    "spotify_id": "1Wbm8a86AGAgr1S71ZNn9i",
+    "youtube_channel_id": [
+      "UC_kzAzrQhk_noj9SLbPgTPg"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2241450"
+  },
+  {
+    "name": "YunB",
+    "spotify_id": "2Z7teNgQJnz6qUp8FmhEtG",
+    "youtube_channel_id": [
+      "UCtupZ6seJG8Ql3r_j0jeW6Q"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=1167572"
+  },
+  {
+    "name": "YUNG CHENS",
+    "spotify_id": "0Z0AJiUSevITizCeuWn5PL",
+    "youtube_channel_id": [
+      "UCMICbWw3xyWHGxjD6GOGwOQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2928851"
   },
   {
     "name": "ZENE THE ZILLA",
-    "spotify_id": "",
-    "youtube_channel_id": "",
-    "melon_url": "",
-    "soundcloud_user_id": "zenethezilla"
+    "spotify_id": "1MMbv4LTpwbh2APtXuwaZN",
+    "youtube_channel_id": [
+      "UCinon9VZVxPF8pBryb1Mlhg"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=991470"
+  },
+  {
+    "name": "Zion.T",
+    "spotify_id": "5HenzRvMtSrgtvU16XAoby",
+    "youtube_channel_id": [
+      "UCkobC6Ll03-jphNrAI-YrrQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=537920"
   },
   {
     "name": "Zior Park",
-    "spotify_id": "",
-    "youtube_channel_id": ["UCFPCZLYfZj0Ehu2it-HuQiQ"],
-    "melon_url": ""
+    "spotify_id": "4gkSpcyfxtm5OFoZCYWTeD",
+    "youtube_channel_id": [
+      "UCFPCZLYfZj0Ehu2it-HuQiQ"
+    ],
+    "melon_url": "https://www.melon.com/artist/song.htm?artistId=2085020"
   }
 ]
-
