@@ -5,10 +5,10 @@ permissions:
   contents: write
 
 on:
-  # Schedule - every hour, 24/7 (at :15 past each hour)
+  # Schedule - every 2 hour, 24/7 
   # PUBLIC REPOS = UNLIMITED FREE MINUTES! 🎉
   schedule:
-    - cron: '15 * * * *'  # Runs at :15 every hour (12:15am, 1:15am, 2:15am, etc.)
+    - cron: '15 */2 * * *'  # Runs at :15 every 2 hour (12:15am, 2:15am, etc.)
   
   # Allow manual trigger
   workflow_dispatch:
