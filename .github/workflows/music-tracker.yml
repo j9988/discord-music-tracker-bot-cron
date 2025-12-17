@@ -1,16 +1,11 @@
 name: Music Release Tracker
 
-# Grant permissions to push commits back to repo
 permissions:
   contents: write
 
 on:
-  # Schedule - every 2 hour, 24/7 
-  # PUBLIC REPOS = UNLIMITED FREE MINUTES! 🎉
   schedule:
-    - cron: '15 */2 * * *'  # Runs at :15 every 2 hour (12:15am, 2:15am, etc.)
-  
-  # Allow manual trigger
+    - cron: '15 */2 * * *'
   workflow_dispatch:
 
 jobs:
@@ -49,12 +44,18 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git add tracked_releases.json
         git diff --quiet && git diff --staged --quiet || git commit -m "Update tracked releases [skip ci]"
+
+    - name: Pull latest changes (avoid push rejection)
+      run: |
+        git fetch origin main
+        git rebase origin/main || git rebase --abort  # rebase safely
     
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }}
+        branch: main
+        force: false  # force push is optional; better to avoid if possible
     
     - name: Upload tracked releases (backup)
       uses: actions/upload-artifact@v4
