@@ -1,5 +1,9 @@
 name: Music Release Tracker
 
+# Grant permissions to push commits back to repo
+permissions:
+  contents: write
+
 on:
   # Schedule - every hour, 24/7 (at :15 past each hour)
   # PUBLIC REPOS = UNLIMITED FREE MINUTES! 🎉
@@ -39,7 +43,16 @@ jobs:
       run: |
         python music_tracker_cron.py
     
-    - name: Upload tracked releases
+    - name: Commit tracked releases back to repo
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add tracked_releases.json
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update tracked releases [skip ci]"
+        git push
+      continue-on-error: true
+    
+    - name: Upload tracked releases (backup)
       uses: actions/upload-artifact@v4
       if: always()
       with:
