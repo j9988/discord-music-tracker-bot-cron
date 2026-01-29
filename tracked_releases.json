@@ -400,5 +400,35 @@
     "title": "\u30a2\u30cb\u30e7\u30cf\u30bb\u30e8",
     "platform": "Spotify",
     "timestamp": "2026-01-28T11:05:29.015461+00:00"
+  },
+  "youtube_dME9bHPvBrI": {
+    "artist": "DBO",
+    "title": "\ub514\ubcf4 (Dbo) - Let it burn (Official Music Video)",
+    "platform": "YouTube",
+    "timestamp": "2026-01-29T09:15:59.350990+00:00"
+  },
+  "spotify_1nBFDAOYEVroVcwNv9ETvn": {
+    "artist": "Heize",
+    "title": "Never Meant to Be",
+    "platform": "Spotify",
+    "timestamp": "2026-01-29T09:15:59.351009+00:00"
+  },
+  "youtube_UmPvd-EhUPI": {
+    "artist": "JUTO",
+    "title": "\uae40\uc720\ud1a0 \ucd5c\uc560\uace1 #\uc778\uc0dd\uc740\uc544\ub984\ub2e4\uc6cc #\uc720\ud1a0 #juto",
+    "platform": "YouTube",
+    "timestamp": "2026-01-29T09:15:59.351012+00:00"
+  },
+  "youtube_4Qb3cHL6J-s": {
+    "artist": "JUTO",
+    "title": "\uc624\ub298\ub3c4 \ud5e4\ube0c\uc5b4\uad7f\ub370\uc774 \uc528\uc720 \u2600 #\uc720\ud1a0 #juto #\ud5e4\ube0c\uc5b4\uad7f\ub370\uc774",
+    "platform": "YouTube",
+    "timestamp": "2026-01-29T09:15:59.351014+00:00"
+  },
+  "spotify_1pH1nyRJ09pfZZKpRdQQUv": {
+    "artist": "Loopy",
+    "title": "SEOUL",
+    "platform": "Spotify",
+    "timestamp": "2026-01-29T09:15:59.351017+00:00"
   }
 }
